@@ -12,3 +12,7 @@ we’ll build a bank account that starts with $1,000 and runs 100 transactions f
 
 # 2) Dining philosophers problem
 
+
+#3) Builder Pattern in Go
+> Example code of Builder pattern in Golang
+
